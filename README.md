@@ -33,7 +33,9 @@ Dataset: https://www.kaggle.com/datasets/balaka18/email-spam-classification-data
 
 
 
-**Task 2 (INTERMEDIATE): Credit Card Fraud Detection**
+
+
+**##Task 2 (INTERMEDIATE): Credit Card Fraud Detection**
 
 ## Project Overview
 
