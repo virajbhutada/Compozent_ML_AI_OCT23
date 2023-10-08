@@ -1,6 +1,6 @@
 # Compozent_ML_AI_OCT23
 
-**TASK 1 (BASIC): Spam Email Classifier** 
+## TASK 1 (BASIC): Spam Email Classifier 
 
 Project Overview:
 This project focuses on developing a spam email classifier using advanced machine learning techniques. The goal is to accurately identify spam emails and improve email filtering efficiency.
@@ -35,7 +35,7 @@ Dataset: https://www.kaggle.com/datasets/balaka18/email-spam-classification-data
 
 
 
-**Task 2 (INTERMEDIATE): Credit Card Fraud Detection**
+## Task 2 (INTERMEDIATE): Credit Card Fraud Detection
 
 ## Project Overview
 
